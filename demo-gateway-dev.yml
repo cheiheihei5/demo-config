@@ -1,4 +1,4 @@
 iplimit:
   capacity: 2
-  seconds: 5
+  seconds: 6
   refillTokens: 1
