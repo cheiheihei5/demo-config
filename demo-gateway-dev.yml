@@ -1,0 +1,4 @@
+iplimit:
+  capacity: 2
+  seconds: 5
+  refillTokens: 1
